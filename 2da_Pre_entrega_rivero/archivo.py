@@ -4,11 +4,11 @@ from mi_paquete.funciones_cliente import comprar
 from mi_paquete.funciones_cliente import advertencia
 
 cliente1 = Cliente('Irma Benavides','30','88888','Calle 37 510, La plata')
-##atributos
+# ##atributos
 # print(cliente1.nombre)
 # print(cliente1.edad)
-# print(cliente.dni)
-# print(cliente.domicilio)
+# print(cliente1.dni)
+# print(cliente1.domicilio)
 ## funciones
 # print(cliente1.__str__())
 # print(cliente1.advertencia())
